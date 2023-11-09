@@ -40,6 +40,7 @@ on the `notifiers` list instead of the default class.
 
 Todo
 -------------
+- Finish the implementation of notify method
 - Add example Features and Unit tests
 - Add Github actions
 - List package on https://packagist.org/
