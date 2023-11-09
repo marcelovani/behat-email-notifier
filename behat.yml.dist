@@ -1,0 +1,8 @@
+default:
+  extensions:
+    Marcelovani\Behat\Notifier:
+      notifiers:
+        Marcelovani\Behat\Notifier\Email\EmailNotifier:
+          recipients:
+            - email1@foo.bar
+            - email2@foo.bar
